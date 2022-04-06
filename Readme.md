@@ -12,3 +12,6 @@ Sources :
 http://cs.wellesley.edu/~cs235/fall08/lectures/35_YACC_revised.pdf
 http://rogerprice.org/ug/ug.pdf
 https://smlfamily.github.io/Basis/list.html
+
+A link to Input Files and their corresponding Outputs :
+https://docs.google.com/document/d/1HKccRItfoozJInISMONph5lap7e3KMcBt-kvjkZtMO0/edit
