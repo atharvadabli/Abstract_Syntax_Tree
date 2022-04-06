@@ -1,0 +1,10 @@
+CM.make("$/basis.cm");
+CM.make("$/ml-yacc-lib.cm");
+use "while.sml";
+use "while.yacc.sig";
+use "while.yacc.sml";
+use "while.lex.sml";
+use "load-while.sml";
+Control.Print.printLength := 1000;
+ Control.Print.printDepth := 1000;
+  Control.Print.stringDepth := 1000;
